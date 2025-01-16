@@ -1,0 +1,3 @@
+# Entity Labeling and CoNLL Format Generation
+
+To create tools for dynamic entity labeling of Amharic messages and generate CoNLL formatted outputs. It is designed for processing data fetched from the `Qenash.com - ቅናሽ` e-commerce channel, specifically targeting price, location, and product entities. The repository allows for dynamic batching of messages for labeling and exporting labeled data in the CoNLL format.
