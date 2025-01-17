@@ -3,3 +3,4 @@ numpy
 telethon
 seaborn
 matplotlib
+python-dotenv
